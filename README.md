@@ -23,7 +23,7 @@ After successfully connecting to the remote server, the next step involves creat
 
 1. Begin by creating a new Conda environment with Python 3.10. Run the following command:
    `conda create -n your_env_name python=3.10`.
-   Be sure to replace your_env_name with a name of your choice. Using Python 3.10 is recommended for compatibility.
+   Be sure to replace `your_env_name` with a name of your choice. Using Python 3.10 is recommended for compatibility.
 
 2. With the environment created, install the necessary library dependencies based on the requirements of your projects.
 
