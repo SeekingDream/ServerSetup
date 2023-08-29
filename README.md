@@ -8,7 +8,7 @@ Welcome to the guide for setting up your development environment on the UTD GPU 
 
 To begin, you'll need to establish a connection to the remote server using the SSH tool.
 
-1. Start by ensuring that you have connected to the UTD VPN. If you haven't done this yet, follow the instructions provided in the link to set up the UTD VPN.
+1. Start by ensuring that you have connected to the UTD VPN. If you haven't done this yet, follow the instructions provided in the [link](https://atlas.utdallas.edu/TDClient/30/Portal/KB/?CategoryID=233) to set up the UTD VPN.
 
 2. Once your VPN connection is active, you can proceed to connect to the remote server using an SSH tool.
    1. For Windows users, we recommend using Putty.
