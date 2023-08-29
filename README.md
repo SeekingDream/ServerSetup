@@ -4,7 +4,7 @@ Welcome to the guide for setting up your development environment on the UTD GPU 
 
 
 
-# Connecting to the Remote Server
+## Connecting to the Remote Server
 
 To begin, you'll need to establish a connection to the remote server using the SSH tool.
 
@@ -18,7 +18,7 @@ To begin, you'll need to establish a connection to the remote server using the S
 4. Launch your SSH tool and enter the following command: ``ssh user_name@10.176.168.23``. Replace user_name with your username and then enter the password when prompted. If you're unsure about your username or password, please contact Simin for assistance.
 
 
-# Setting Up the Python Virtual Environment
+## Setting Up the Python Virtual Environment
 
 After successfully connecting to the remote server, the next step involves creating and configuring a Python virtual environment.
 
@@ -28,7 +28,7 @@ After successfully connecting to the remote server, the next step involves creat
 
 2. With the environment created, install the necessary library dependencies based on the requirements of your projects.
 
-# Managing Project and Dataset Paths
+## Managing Project and Dataset Paths
 To ensure an organized structure for your projects and datasets, follow these guidelines:
 
 1. All your projects should reside within the ~/Project directory. Create a project root under this directory, e.g., ~/Project/your_project_name. This is where your project's implementation code will be stored.
