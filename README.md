@@ -11,9 +11,8 @@ To begin, you'll need to establish a connection to the remote server using the S
 1. Start by ensuring that you have connected to the UTD VPN. If you haven't done this yet, follow the instructions provided in the link to set up the UTD VPN.
 
 2. Once your VPN connection is active, you can proceed to connect to the remote server using an SSH tool.
-
-  1. For Windows users, we recommend using Putty.
-  2. Linux and Mac users can directly use the default command line tool.
+   1. For Windows users, we recommend using Putty.
+   2. Linux and Mac users can directly use the default command line tool.
      
 4. Launch your SSH tool and enter the following command: ``ssh user_name@10.176.168.23``. Replace user_name with your username and then enter the password when prompted. If you're unsure about your username or password, please contact Simin for assistance.
 
