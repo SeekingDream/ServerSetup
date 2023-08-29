@@ -31,9 +31,9 @@ After successfully connecting to the remote server, the next step involves creat
 ## Managing Project and Dataset Paths
 To ensure an organized structure for your projects and datasets, follow these guidelines:
 
-1. All your projects should reside within the ~/Project directory. Create a project root under this directory, e.g., ~/Project/your_project_name. This is where your project's implementation code will be stored.
+1. All your projects should reside within the ~/Project directory. Create a project root under this directory, e.g., `~/Project/your_project_name`. This is where your project's implementation code will be stored.
 
-2. Store all your datasets within the ~/Dataset directory. For example, if you're working with the CIFAR dataset, place it in ~/Dataset/CIFAR. You can then create a symbolic link to connect this dataset to your project's directory.
+2. Store all your datasets within the ~/Dataset directory. For example, if you're working with the CIFAR dataset, place it in `~/Dataset/CIFAR`. You can then create a symbolic link to connect this dataset to your project's directory.
 
 3. To create the symbolic link, use the following command: `ln -s ~/Dataset/CIFAR ~/Project/your_project_name/dataset/CIFAR`.
    This will link the CIFAR dataset from the ~/Dataset directory to the dataset/CIFAR directory within your project.
